@@ -1,6 +1,6 @@
-# convlstm
+# 基于convlstm及其改进的短时降雨量预测方法 
 
-A graduation project
+本科毕业设计
 
 运行说明：
 
